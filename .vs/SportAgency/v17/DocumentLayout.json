@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# exp\\SportAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\controllers\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\controllers\\athletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\implementation\\athleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\implementation\\athleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\implementation\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\implementation\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\interfaces\\iathleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\interfaces\\iathleterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\interfaces\\iclubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\interfaces\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\interfaces\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\views\\club\\clubdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\views\\club\\clubdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\sportagency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\sportagency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|c:\\c# exp\\sportagency\\sportagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E571D-D9AC-4655-A0C9-0D6D0ECE85F7}|SportAgency\\SportAgency.csproj|solutionrelative:sportagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:46:27.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:30:09.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClubRepository.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\ClubRepository.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Implementation\\ClubRepository.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\ClubRepository.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Implementation\\ClubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:24:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AthleteRepository.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\AthleteRepository.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Implementation\\AthleteRepository.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Implementation\\AthleteRepository.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Implementation\\AthleteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:24:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SportAgency\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "SportAgency\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:57:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SportAgency\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:19:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AthleteController.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Controllers\\AthleteController.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Controllers\\AthleteController.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Controllers\\AthleteController.cs",
+              "RelativeToolTip": "SportAgency\\Controllers\\AthleteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:02:08.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAthleteRepository.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IAthleteRepository.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Interfaces\\IAthleteRepository.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IAthleteRepository.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Interfaces\\IAthleteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:23:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClubRepository.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IClubRepository.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Interfaces\\IClubRepository.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IClubRepository.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Interfaces\\IClubRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:19:50.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDb.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IDb.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Interfaces\\IDb.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IDb.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Interfaces\\IDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T16:34:10.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "SportAgency\\Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:29:48.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "SportAgency\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:52:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "SportAgency\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T11:51:38.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClubDashboard.cshtml",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Views\\Club\\ClubDashboard.cshtml",
+              "RelativeDocumentMoniker": "SportAgency\\Views\\Club\\ClubDashboard.cshtml",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Views\\Club\\ClubDashboard.cshtml",
+              "RelativeToolTip": "SportAgency\\Views\\Club\\ClubDashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T17:02:30.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SportAgency",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\SportAgency.csproj",
+              "RelativeDocumentMoniker": "SportAgency\\SportAgency.csproj",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\SportAgency.csproj",
+              "RelativeToolTip": "SportAgency\\SportAgency.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T16:57:03.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# exp\\SportAgency\\SportAgency\\Program.cs",
+              "RelativeDocumentMoniker": "SportAgency\\Program.cs",
+              "ToolTip": "C:\\C# exp\\SportAgency\\SportAgency\\Program.cs",
+              "RelativeToolTip": "SportAgency\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:25:25.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
